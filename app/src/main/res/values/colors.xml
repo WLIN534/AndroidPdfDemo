@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#1E8BF2</color>
+    <color name="bg_snackbar">#00000000</color>
+    <color name="no_color">#7D7D7D</color>
+    <color name="yes_color">#38ADFF</color>
+</resources>
